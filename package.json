@@ -1,0 +1,19 @@
+{
+  "name": "dhaka-bus-route-api",
+  "version": "1.0.0",
+  "description": "An API for bus routes in dhaka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalahmedsifat/Dhaka-Bus-Routes-Api.git"
+  },
+  "author": "faisalahmedsifat",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/faisalahmedsifat/Dhaka-Bus-Routes-Api/issues"
+  },
+  "homepage": "https://github.com/faisalahmedsifat/Dhaka-Bus-Routes-Api#readme"
+}
